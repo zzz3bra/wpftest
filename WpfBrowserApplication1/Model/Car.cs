@@ -11,7 +11,7 @@ namespace WpfBrowserApplication1.Model
         public string Name { get; set; }
         public Car()
         {
-            Name = "Honda1488";
+            Name = "Honda1488"; // Комментарии тоже обновляются?)
         }
         public Car(string name)
         {
