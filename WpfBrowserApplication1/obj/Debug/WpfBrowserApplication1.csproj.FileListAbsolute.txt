@@ -16,3 +16,21 @@ c:\users\zzz3bra\documents\visual studio 2015\Projects\WpfBrowserApplication1\Wp
 c:\users\zzz3bra\documents\visual studio 2015\Projects\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.xbap
 c:\users\zzz3bra\documents\visual studio 2015\Projects\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.exe
 c:\users\zzz3bra\documents\visual studio 2015\Projects\WpfBrowserApplication1\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.pdb
+D:\KYRSACH\wpftest\WpfBrowserApplication1\bin\Debug\WpfBrowserApplication1.exe.manifest
+D:\KYRSACH\wpftest\WpfBrowserApplication1\bin\Debug\WpfBrowserApplication1.xbap
+D:\KYRSACH\wpftest\WpfBrowserApplication1\bin\Debug\WpfBrowserApplication1.exe
+D:\KYRSACH\wpftest\WpfBrowserApplication1\bin\Debug\WpfBrowserApplication1.pdb
+D:\KYRSACH\wpftest\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.csprojResolveAssemblyReference.cache
+D:\KYRSACH\wpftest\WpfBrowserApplication1\obj\Debug\Page1.g.cs
+D:\KYRSACH\wpftest\WpfBrowserApplication1\obj\Debug\App.g.cs
+D:\KYRSACH\wpftest\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1_MarkupCompile.cache
+D:\KYRSACH\wpftest\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1_MarkupCompile.lref
+D:\KYRSACH\wpftest\WpfBrowserApplication1\obj\Debug\Page1.baml
+D:\KYRSACH\wpftest\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.g.resources
+D:\KYRSACH\wpftest\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.Properties.Resources.resources
+D:\KYRSACH\wpftest\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.csproj.GenerateResource.Cache
+D:\KYRSACH\wpftest\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.TrustInfo.xml
+D:\KYRSACH\wpftest\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.exe.manifest
+D:\KYRSACH\wpftest\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.xbap
+D:\KYRSACH\wpftest\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.exe
+D:\KYRSACH\wpftest\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.pdb
