@@ -11,7 +11,7 @@ namespace WpfBrowserApplication1.Model
         public string Name { get; set; }
         public Car()
         {
-            Name = "Honda";
+            Name = "Honda1488";
         }
         public Car(string name)
         {
