@@ -15,7 +15,14 @@ namespace WpfBrowserApplication1.Model
         }
         public Car(string name)
         {
-            Name = name;
+            if (string.IsNullOrEmpty(name))
+            {
+                Name = "Honda";
+            }
+            else
+            {
+                Name = name;
+            }
         }
         override public string ToString()
         {
