@@ -12,6 +12,8 @@ namespace WpfBrowserApplication1.Model
         public Car()
         {
             Name = "Honda1488"; // Комментарии тоже обновляются?)
+            //канешн
+            //особенно если дед был штурмфюрер СС
         }
         public Car(string name)
         {
