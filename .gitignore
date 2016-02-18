@@ -47,5 +47,5 @@ Temporary Items
 .apdisk
 
 # Visual Studio binaries
-WpfBrowserApplication1\bin
-WpfBrowserApplication1\obj
+WpfBrowserApplication1/bin
+WpfBrowserApplication1/obj
